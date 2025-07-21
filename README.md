@@ -4,7 +4,9 @@ A modern, responsive real estate website built with React and Vite, featuring sm
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Website](https://sajiniweerasinghe.github.io/Real-Estate-Website)**
+🔗 **[View Live Website (GitHub Pages)](https://sajiniweerasinghe.github.io/Real-Estate-Website)**
+
+🔗 **[Alternative Demo (Netlify)](https://687e7a86dd57dc5d456885db--aesthetic-stroopwafel-8d2818.netlify.app/)**
 
 ## 📱 Features
 
@@ -34,6 +36,7 @@ A modern, responsive real estate website built with React and Vite, featuring sm
 ### Deployment
 
 - **GitHub Pages** - Free static site hosting
+- **Netlify** - Alternative deployment platform with continuous deployment
 - **gh-pages 6.3.0** - Deploy React apps to GitHub Pages
 
 ## 📂 Project Structure
@@ -116,7 +119,9 @@ Framer Motion animations can be customized in individual components. Adjust timi
 
 ## 🌐 Deployment
 
-This project is set up for easy deployment to GitHub Pages:
+This project is deployed on multiple platforms for redundancy and accessibility:
+
+### GitHub Pages Deployment
 
 1. **Build the project**
 
@@ -130,6 +135,20 @@ This project is set up for easy deployment to GitHub Pages:
    ```
 
 The site will be available at: `https://yourusername.github.io/repository-name`
+
+### Netlify Deployment
+
+This project is also deployed on Netlify for faster global CDN delivery and additional features:
+
+🌐 **Live on Netlify**: [https://687e7a86dd57dc5d456885db--aesthetic-stroopwafel-8d2818.netlify.app/](https://687e7a86dd57dc5d456885db--aesthetic-stroopwafel-8d2818.netlify.app/)
+
+**Netlify Features:**
+
+- Automatic deployments from GitHub
+- Global CDN for faster loading
+- HTTPS by default
+- Branch previews
+- Form handling capabilities
 
 ## 📱 Responsive Breakpoints
 
